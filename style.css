@@ -7,6 +7,7 @@
 body {
   margin: 5px auto;
   max-width: 100%;
+  background-color: rgb(144, 191, 232);
 }
 
 h1,
@@ -93,6 +94,7 @@ p {
   display: block;
   margin: 10px auto;
   width: 400px;
+  border-radius: 10px;
 }
 #launchme {
   justify-content: center;
