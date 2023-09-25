@@ -105,3 +105,19 @@ p {
   padding: 5px;
   vertical-align: center;
 }
+
+@media (max-width: 1000px) {
+  h1,
+  h2 {
+    font-size: 30px;
+  }
+
+  #applinks {
+    font-size: 18px;
+    text-align: center;
+  }
+  p {
+    font-size: 10px;
+    padding: none;
+  }
+}
